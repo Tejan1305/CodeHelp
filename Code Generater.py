@@ -1,7 +1,7 @@
 import cohere
 
 # Set up the Cohere client
-co = cohere.Client("9gvaFI6EOI4AMrWhkYGdI4QgYOK5rLS6lk2RRkLu")
+co = cohere.Client("your cohere api key")
 
 # Define the input prompt for code generation
 prompt = """
